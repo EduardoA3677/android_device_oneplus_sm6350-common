@@ -210,13 +210,14 @@
         </interface>
     </hal>
     <hal format="hidl">
-        <name>vendor.goodix.hardware.biometrics.fingerprint</name>
+        <name>vendor.egistec.hardware.fingerprint</name>
         <transport>hwbinder</transport>
-        <version>2.1</version>
+        <version>4.0</version>
         <interface>
-            <name>IGoodixFingerprintDaemon</name>
+            <name>IBiometricsFingerprintRbs</name>
             <instance>default</instance>
         </interface>
+        <fqname>@4.0::IBiometricsFingerprintRbs/default</fqname>
     </hal>
     <hal format="hidl">
         <name>vendor.nxp.nxpnfc</name>
@@ -253,6 +254,7 @@
             <name>IVendorFingerprintExtensions</name>
             <instance>default</instance>
         </interface>
+        <fqname>@1.0::IVendorFingerprintExtensions/default</fqname>
     </hal>
     <hal format="hidl">
         <name>vendor.oneplus.hardware.CameraMDMHIDL</name>

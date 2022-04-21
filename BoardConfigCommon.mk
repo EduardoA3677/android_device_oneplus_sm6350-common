@@ -19,7 +19,7 @@ BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
 
 BOARD_VENDOR := oneplus
 
-COMMON_PATH := device/oneplus/sm7250-common
+COMMON_PATH := device/oneplus/sm6350-common
 
 # Architecture
 TARGET_ARCH := arm64
@@ -208,4 +208,4 @@ WIFI_HIDL_UNIFIED_SUPPLICANT_SERVICE_RC_ENTRY := true
 WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # Inherit from the proprietary version
--include vendor/oneplus/sm7250-common/BoardConfigVendor.mk
+-include vendor/oneplus/sm6350-common/BoardConfigVendor.mk

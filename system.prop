@@ -24,8 +24,6 @@ persist.vendor.color.matrix=2
 # CNE
 persist.vendor.cne.feature=1
 
-# Fingerprint
-vendor.boot.fingerprintbstate=orange
 
 # IMS
 persist.dbg.volte_avail_ovr=1
