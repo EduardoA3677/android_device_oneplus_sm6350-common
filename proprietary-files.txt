@@ -156,7 +156,6 @@ vendor/etc/init/vendor.oneplus.hardware.display@1.0-service.rc
 vendor/lib64/libhdr_tm.so
 
 # Display (HWC)
-vendor/bin/hw/vendor.qti.hardware.display.composer-service
 vendor/bin/qdcmss
 vendor/etc/init/qdcmss.rc
 vendor/lib64/libdpps.so
