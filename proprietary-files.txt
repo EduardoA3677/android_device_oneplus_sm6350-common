@@ -80,7 +80,6 @@ vendor/bin/cnd|aff29c162f1a07cbf39ebfd018b64267e199c6ba
 vendor/etc/cne/andsfCne.xml|f81a69eac5dd16bbb195a0fcf1211a51cc014553
 vendor/etc/cne/mwqem.conf|c42ad47b34b511075e5dfb9047d32f881fe0c159
 vendor/etc/cne/profileMwqem.xml|947917691684584b7e2ddf3588cd6f8e99f3804f
-vendor/etc/cne/SwimConfig.xml|68dedcca1c2ac18cf81fdee1854de16a3a60dd02
 vendor/etc/cne/wqeclient/ATT/ATT_profile1.xml|578f3f8f56059bfdbef926bcc68d01c15e06951f
 vendor/etc/cne/wqeclient/ATT/ATT_profile2.xml|1fb42c672a12b6660bdce3ea94e0c43719dd9de8
 vendor/etc/cne/wqeclient/ATT/ATT_profile3.xml|f88e13f1dd7b82388c90358f71813026370c9ed8
